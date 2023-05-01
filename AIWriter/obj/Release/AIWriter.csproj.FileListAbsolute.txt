@@ -1,0 +1,11 @@
+C:\Users\lucky\source\repos\AIWriter\AIWriter\bin\Release\AIWriter.exe.config
+C:\Users\lucky\source\repos\AIWriter\AIWriter\bin\Release\AIWriter.exe
+C:\Users\lucky\source\repos\AIWriter\AIWriter\bin\Release\AIWriter.pdb
+C:\Users\lucky\source\repos\AIWriter\AIWriter\obj\Release\AIWriter.csproj.AssemblyReference.cache
+C:\Users\lucky\source\repos\AIWriter\AIWriter\obj\Release\AIWriter.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucky\source\repos\AIWriter\AIWriter\obj\Release\AIWriter.AIWriter.resources
+C:\Users\lucky\source\repos\AIWriter\AIWriter\obj\Release\AIWriter.Properties.Resources.resources
+C:\Users\lucky\source\repos\AIWriter\AIWriter\obj\Release\AIWriter.csproj.GenerateResource.cache
+C:\Users\lucky\source\repos\AIWriter\AIWriter\obj\Release\AIWriter.csproj.CoreCompileInputs.cache
+C:\Users\lucky\source\repos\AIWriter\AIWriter\obj\Release\AIWriter.exe
+C:\Users\lucky\source\repos\AIWriter\AIWriter\obj\Release\AIWriter.pdb
