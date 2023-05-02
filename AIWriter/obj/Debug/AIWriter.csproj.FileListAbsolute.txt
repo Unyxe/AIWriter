@@ -20,3 +20,23 @@ C:\Users\lucky\source\repos\AIWriter\AIWriter\obj\Debug\AIWriter.csproj.Generate
 C:\Users\lucky\source\repos\AIWriter\AIWriter\obj\Debug\AIWriter.csproj.CoreCompileInputs.cache
 C:\Users\lucky\source\repos\AIWriter\AIWriter\obj\Debug\AIWriter.exe
 C:\Users\lucky\source\repos\AIWriter\AIWriter\obj\Debug\AIWriter.pdb
+L:\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.csprojAssemblyReference.cache
+L:\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.exe
+L:\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.pdb
+L:\Visual Studio 2019\AIWriter-main\AIWriter\bin\Debug\AIWriter.exe.config
+L:\Visual Studio 2019\AIWriter-main\AIWriter\bin\Debug\AIWriter.exe
+L:\Visual Studio 2019\AIWriter-main\AIWriter\bin\Debug\AIWriter.pdb
+L:\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.AIWriter.resources
+L:\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.Properties.Resources.resources
+L:\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.csproj.GenerateResource.cache
+L:\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.csproj.CoreCompileInputs.cache
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\AIWriter-main\AIWriter\bin\Debug\AIWriter.exe.config
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\AIWriter-main\AIWriter\bin\Debug\AIWriter.exe
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\AIWriter-main\AIWriter\bin\Debug\AIWriter.pdb
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.csprojAssemblyReference.cache
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.AIWriter.resources
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.Properties.Resources.resources
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.csproj.GenerateResource.cache
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.csproj.CoreCompileInputs.cache
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.exe
+\\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.pdb
