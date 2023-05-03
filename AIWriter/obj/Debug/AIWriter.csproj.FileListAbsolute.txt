@@ -40,3 +40,14 @@ L:\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.csproj.CoreCompi
 \\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.csproj.CoreCompileInputs.cache
 \\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.exe
 \\lutcfs01.lutc.internal\student$\TPerfilov\Documents\Visual Studio 2019\AIWriter-main\AIWriter\obj\Debug\AIWriter.pdb
+D:\AIWriter-main\AIWriter\obj\Debug\AIWriter.csproj.AssemblyReference.cache
+D:\AIWriter-main\AIWriter\obj\Debug\AIWriter.csproj.SuggestedBindingRedirects.cache
+D:\AIWriter-main\AIWriter\obj\Debug\AIWriter.exe
+D:\AIWriter-main\AIWriter\obj\Debug\AIWriter.pdb
+D:\AIWriter-main\AIWriter\bin\Debug\AIWriter.exe.config
+D:\AIWriter-main\AIWriter\bin\Debug\AIWriter.exe
+D:\AIWriter-main\AIWriter\bin\Debug\AIWriter.pdb
+D:\AIWriter-main\AIWriter\obj\Debug\AIWriter.AIWriter.resources
+D:\AIWriter-main\AIWriter\obj\Debug\AIWriter.Properties.Resources.resources
+D:\AIWriter-main\AIWriter\obj\Debug\AIWriter.csproj.GenerateResource.cache
+D:\AIWriter-main\AIWriter\obj\Debug\AIWriter.csproj.CoreCompileInputs.cache
