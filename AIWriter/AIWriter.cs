@@ -29,7 +29,7 @@ namespace AIWriter
                 return;
             }
             
-            string message = "<bard_search>\\search\\?auth-fb1f92fce9539c1a723adabc3e9eb875&query-" + ToBase64(query_txt_box.Text);
+            string message = "<bard_search>\\search\\?query-" + ToBase64(query_txt_box.Text);
             Console.WriteLine("[Request] " + message);
             button1.Enabled = false;
             Send(message, 10);
